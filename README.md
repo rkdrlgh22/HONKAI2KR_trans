@@ -1,0 +1,1 @@
+# HONKAI2KR_trans
