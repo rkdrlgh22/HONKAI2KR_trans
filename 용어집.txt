@@ -1,0 +1,45 @@
+"
+\n
+#1
+Kiana	キアナ	琪亚娜	키아나
+Kiana Kaslana	キアナ·カスラナ	琪亚娜·卡斯兰娜	키아나 카스라나
+Mei	芽衣	芽衣	메이
+Raiden Mei	雷電芽衣	雷电芽衣	라이덴 메이
+Bronya	ブローニャ	布洛妮娅	브로냐
+Himeko	姫子	姫子	히메코
+Murata Himeko	無量塔姫子	无量塔姬子	무라타 히메코
+Theresa	テレサ	德丽莎	테레사
+Theresa Apocalypse	テレサ･アポカリプス	德丽莎·阿波卡利斯	테레사 아포칼립스
+Seele	ゼーレ	希儿	제레
+Seele Vollerei	ゼーレ･フェレライ	希儿·芙乐艾	제레 발레리
+Sin	シン	杏	신
+Sin Mal	シン･マール	杏·玛尔	신 말
+Houraiji	蓬莱寺	蓬莱寺	호라이지
+Kyuushou	九霄	九霄	규슈
+Estherine	イザーリン	伊瑟琳	이자린
+Fu Hua	フカ	符华	후카
+Sirin	シーリン	西琳	시린
+Ninti	ニンディ	宁蒂	닌디
+Jhana	ガーナ	迦娜	가나
+Cecilia	セシリア	塞西莉亚	세실리아
+Femiris	フェミリス	菲米莉丝	페미리스
+Kallen	カレン	卡莲	카렌
+Cocolia	カカリア	可可利亚	쿠쿠리아
+Yae Sakura	八重桜	八重樱	야에 사쿠라
+
+Karin	カリン	卡琳	카린
+Tiara	ティアラ	蒂亚拉	티아라
+Arkria	アクリア	阿库莉亚	아쿠리아
+
+Honkai	崩壊	崩坏	붕괴
+Herrscher	律者	律者	율자
+Schicksal	天命	天命	천명
+St. Freya High School	聖フレイヤ学園	圣芙蕾雅学园	세인트 프레야 학원
+Senba High School	千羽学園	千羽学園	센바 학원
+Anti-Entropy	ネゲントロピー	逆熵	네겐트로피
+M.E. Corporation	ME社	ME社	ME사
+Moonlight Throne	月光王座	月光王座	월광왕좌
+Hyperion	ハイペリオン	休伯利安	히페리온
+Armored Bunny	重装ウサギ	重装小兔	중장토끼
+Shigure Kira	時雨綺羅	时雨绮罗	시구레 키라
+Welt	ヴェルト	瓦尔特	웰트
